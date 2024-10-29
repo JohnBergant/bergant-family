@@ -1,4 +1,4 @@
-baseURL = 'https://johnbergant.github.io/'
+baseURL = 'https://johnbergant.github.io/bergant-family/'
 languageCode = 'en-us'
 title = 'Bergant Family Site'
 theme = 'ananke'
